@@ -11,9 +11,7 @@ using namespace std;
 
 class clsDate
 {
-	/*short _Second = 1;
-	short _Min = 1;
-	short _Hours = 1;*/
+	
 
 	short _Day = 1;
 	short _Month = 1;
