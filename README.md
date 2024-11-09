@@ -1,6 +1,3 @@
-Certainly! Below is a sample README for a hypothetical `clsDate` project, along with an example of how to use the class. This README assumes that `clsDate` is a C++ class designed for date manipulation.
-
-```markdown
 # clsDate: A C++ Date Manipulation Library
 
 `clsDate` is a C++ library that provides a comprehensive set of functions for handling and manipulating dates. It is designed to simplify date operations in C++ projects, offering a user-friendly interface for common date-related tasks.
@@ -20,13 +17,8 @@ To use the `clsDate` library, include the `clsDate.h` file in your project:
 
 ```cpp
 #include "clsDate.h"
-```
+Here's a quick example of how to use the clsDate class:
 
-## Usage
-
-Here's a quick example of how to use the `clsDate` class:
-
-```cpp
 #include <iostream>
 #include "clsDate.h"
 
@@ -57,7 +49,4 @@ int main() {
 
     return 0;
 }
-```
-
-
 
